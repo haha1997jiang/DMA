@@ -18,15 +18,15 @@ The point of making this repo is to reduce the price of DMA custom firmware. But
 
 
 ### Contents
-- [Automatic Firmware Creation](https://github.com/Rakeshmonkee/DMA/tree/main/Automatic%20Firmware%20Creation)
-- [Vivado Customisations](https://github.com/Rakeshmonkee/DMA/tree/main/Vivado%20Customisations)
-- [DMA FAQ](https://github.com/Rakeshmonkee/DMA/blob/main/DMA%20FAQ.md)
-- [How to Flash](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash)
-- [Anti-Cheese FW Creation](https://github.com/Rakeshmonkee/DMA/tree/main/Anti-Cheese%20FW%20Creation)
-- [VGK FW Creation](https://github.com/Rakeshmonkee/DMA/tree/main/VGK%20FW%20Creation)
-- [TLSCAN to COE](https://github.com/Rakeshmonkee/DMA/tree/main/.tlscan%20to%20.coe)
-- [1:1 CFG of real device](https://github.com/Rakeshmonkee/DMA/tree/main/1%3A1%20CFG%20of%20real%20device)
-- [DMA Troubleshooting](https://github.com/Rakeshmonkee/DMA/tree/main/DMA%20Troubleshooting)
+- [Automatic Firmware Creation](https://github.com/haha1997jiang/DMA/tree/main/Automatic%20Firmware%20Creation)
+- [Vivado Customisations](https://github.com/haha1997jiang/DMA/tree/main/Vivado%20Customisations)
+- [DMA FAQ](https://github.com/haha1997jiang/DMA/blob/main/DMA%20FAQ.md)
+- [How to Flash](https://github.com/haha1997jiang/DMA/tree/main/How%20to%20Flash)
+- [Special-Customization FW Creation](https://github.com/haha1997jiang/DMA/tree/main/Special-Customization%20FW%20Creation)
+- [VGK FW Creation](https://github.com/haha1997jiang/DMA/tree/main/VGK%20FW%20Creation)
+- [TLSCAN to COE](https://github.com/haha1997jiang/DMA/tree/main/.tlscan%20to%20.coe)
+- [1:1 CFG of real device](https://github.com/haha1997jiang/DMA/tree/main/1%3A1%20CFG%20of%20real%20device)
+- [DMA Troubleshooting](https://github.com/haha1997jiang/DMA/tree/main/DMA%20Troubleshooting)
 
 #### If you have any questions or problems/issues, feel free to join my discord server and ask in one of the channels that best suits your issue.
 
